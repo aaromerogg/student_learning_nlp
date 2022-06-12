@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(84,71)" font-size="60" style="fill:rgb(32, 146, 140)">bioinformatica</text>
+<text transform="translate(419,232)" font-size="40" style="fill:rgb(41, 121, 142)">dato</text>
+<text transform="translate(188,367) rotate(-90)" font-size="37" style="fill:rgb(72, 22, 104)">ciencia</text>
+<text transform="translate(294,335)" font-size="37" style="fill:rgb(99, 203, 95)">campo</text>
+<text transform="translate(209,135)" font-size="37" style="fill:rgb(72, 24, 106)">proteina</text>
+<text transform="translate(206,284)" font-size="37" style="fill:rgb(92, 200, 99)">concepto</text>
+<text transform="translate(393,143)" font-size="33" style="fill:rgb(39, 127, 142)">homologia</text>
+<text transform="translate(232,240)" font-size="32" style="fill:rgb(46, 109, 142)">biologia</text>
+<text transform="translate(41,350) rotate(-90)" font-size="31" style="fill:rgb(70, 10, 93)">microbiologia</text>
+<text transform="translate(291,168)" font-size="31" style="fill:rgb(72, 40, 120)">estudio</text>
+<text transform="translate(142,269) rotate(-90)" font-size="30" style="fill:rgb(44, 115, 142)">informatica</text>
+<text transform="translate(390,295)" font-size="30" style="fill:rgb(72, 35, 116)">disciplina</text>
+<text transform="translate(87,371) rotate(-90)" font-size="29" style="fill:rgb(46, 109, 142)">secuencia</text>
+<text transform="translate(369,375)" font-size="28" style="fill:rgb(31, 150, 139)">herramienta</text>
+<text transform="translate(593,302) rotate(-90)" font-size="28" style="fill:rgb(165, 219, 54)">cientifico</text>
+<text transform="translate(367,96)" font-size="28" style="fill:rgb(35, 138, 141)">bases datos</text>
+<text transform="translate(206,362)" font-size="27" style="fill:rgb(31, 159, 136)">genes</text>
+<text transform="translate(142,203)" font-size="27" style="fill:rgb(37, 132, 142)">importante</text>
+<text transform="translate(125,397) rotate(-90)" font-size="27" style="fill:rgb(208, 225, 28)">tipo</text>
+<text transform="translate(417,333)" font-size="27" style="fill:rgb(63, 188, 115)">organismo</text>
+<text transform="translate(424,258)" font-size="26" style="fill:rgb(119, 209, 83)">analisis</text>
+<text transform="translate(88,217) rotate(-90)" font-size="26" style="fill:rgb(44, 113, 142)">ejemplo</text>
+<text transform="translate(61,398) rotate(-90)" font-size="26" style="fill:rgb(39, 127, 142)">evolucion</text>
+<text transform="translate(317,188)" font-size="25" style="fill:rgb(39, 173, 129)">investigacion</text>
+<text transform="translate(182,390)" font-size="25" style="fill:rgb(205, 225, 29)">informacion</text>
+<text transform="translate(210,86)" font-size="25" style="fill:rgb(71, 16, 99)">programa</text>
+<text transform="translate(209,308)" font-size="24" style="fill:rgb(205, 225, 29)">genoma</text>
+<text transform="translate(39,95) rotate(-90)" font-size="24" style="fill:rgb(61, 77, 138)">libro</text>
+<text transform="translate(316,24)" font-size="24" style="fill:rgb(50, 101, 142)">problema</text>
+<text transform="translate(363,393)" font-size="24" style="fill:rgb(71, 47, 125)">secuencias adn</text>
+<text transform="translate(105,132) rotate(-90)" font-size="23" style="fill:rgb(50, 101, 142)">rama</text>
+<text transform="translate(188,334)" font-size="23" style="fill:rgb(45, 178, 125)">especie</text>
+<text transform="translate(142,175)" font-size="23" style="fill:rgb(70, 11, 94)">mutaciones</text>
+<text transform="translate(478,14)" font-size="23" style="fill:rgb(64, 189, 114)">area</text>
+<text transform="translate(106,305) rotate(-90)" font-size="23" style="fill:rgb(72, 193, 110)">biologo</text>
+<text transform="translate(144,339) rotate(-90)" font-size="22" style="fill:rgb(43, 117, 142)">adn</text>
+<text transform="translate(7,17)" font-size="22" style="fill:rgb(53, 95, 141)">estructura</text>
+<text transform="translate(146,19)" font-size="22" style="fill:rgb(70, 10, 93)">conocimiento</text>
+<text transform="translate(335,110)" font-size="18" style="fill:rgb(253, 231, 37)">secuencias moleculares</text>
+<text transform="translate(320,202)" font-size="17" style="fill:rgb(137, 213, 72)">llegar</text>
+<text transform="translate(62,160) rotate(-90)" font-size="17" style="fill:rgb(50, 101, 142)">bioinformatico</text>
+<text transform="translate(523,314)" font-size="17" style="fill:rgb(72, 31, 112)">funcion</text>
+<text transform="translate(354,257)" font-size="16" style="fill:rgb(32, 164, 134)">forma</text>
+<text transform="translate(165,106)" font-size="16" style="fill:rgb(64, 189, 114)">computadora</text>
+<text transform="translate(489,348)" font-size="16" style="fill:rgb(38, 130, 142)">paralogos</text>
+<text transform="translate(227,259)" font-size="16" style="fill:rgb(38, 130, 142)">referencia</text>
+<text transform="translate(350,310)" font-size="15" style="fill:rgb(37, 171, 130)">desarrollo</text>
+<text transform="translate(553,212) rotate(-90)" font-size="15" style="fill:rgb(144, 215, 67)">sistema</text>
+<text transform="translate(449,163)" font-size="15" style="fill:rgb(30, 157, 137)">cientifica</text>
+<text transform="translate(77,95) rotate(-90)" font-size="15" style="fill:rgb(96, 202, 96)">cambio</text>
+<text transform="translate(286,361)" font-size="15" style="fill:rgb(248, 230, 33)">necesario</text>
+<text transform="translate(220,147)" font-size="15" style="fill:rgb(147, 215, 65)">relacionado</text>
+<text transform="translate(200,312) rotate(-90)" font-size="15" style="fill:rgb(103, 204, 92)">adn proteina</text>
+<text transform="translate(518,28)" font-size="14" style="fill:rgb(41, 175, 127)">biologica</text>
+<text transform="translate(564,269) rotate(-90)" font-size="14" style="fill:rgb(70, 10, 93)">investigaciones</text>
+<text transform="translate(458,201)" font-size="14" style="fill:rgb(94, 201, 98)">mutacion</text>
+<text transform="translate(385,352)" font-size="14" style="fill:rgb(110, 206, 88)">principales</text>
+<text transform="translate(107,283)" font-size="14" style="fill:rgb(32, 163, 134)">trabajo</text>
+<text transform="translate(178,115)" font-size="14" style="fill:rgb(46, 109, 142)">o</text>
+<text transform="translate(171,91)" font-size="14" style="fill:rgb(110, 206, 88)">base</text>
+<text transform="translate(427,121)" font-size="14" style="fill:rgb(34, 168, 132)">busca</text>
+<text transform="translate(154,128) rotate(-90)" font-size="14" style="fill:rgb(40, 124, 142)">permite</text>
+<text transform="translate(107,204) rotate(-90)" font-size="14" style="fill:rgb(68, 191, 112)">union</text>
+<text transform="translate(147,150)" font-size="14" style="fill:rgb(30, 155, 138)">aspecto</text>
+<text transform="translate(13,174) rotate(-90)" font-size="14" style="fill:rgb(70, 8, 92)">informatico</text>
+<text transform="translate(13,309) rotate(-90)" font-size="14" style="fill:rgb(51, 99, 141)">ancestro comun</text>
+<text transform="translate(235,372)" font-size="13" style="fill:rgb(36, 135, 142)">analizar</text>
+<text transform="translate(592,396) rotate(-90)" font-size="13" style="fill:rgb(35, 136, 142)">comun</text>
+<text transform="translate(59,235) rotate(-90)" font-size="13" style="fill:rgb(74, 193, 109)">biologico</text>
+<text transform="translate(155,392) rotate(-90)" font-size="13" style="fill:rgb(69, 5, 89)">nucleotido</text>
+<text transform="translate(98,397) rotate(-90)" font-size="13" style="fill:rgb(32, 163, 134)">laboratorio</text>
+<text transform="translate(413,248) rotate(-90)" font-size="13" style="fill:rgb(208, 225, 28)">mayoria</text>
+<text transform="translate(216,29)" font-size="13" style="fill:rgb(234, 229, 26)">punto</text>
+<text transform="translate(532,11)" font-size="13" style="fill:rgb(70, 51, 127)">relacion</text>
+<text transform="translate(421,267)" font-size="12" style="fill:rgb(72, 32, 113)">moleculares base</text>
+<text transform="translate(360,33)" font-size="11" style="fill:rgb(37, 131, 142)">fisica</text>
+<text transform="translate(555,92)" font-size="11" style="fill:rgb(52, 97, 141)">tiempo</text>
+<text transform="translate(17,385) rotate(-90)" font-size="11" style="fill:rgb(229, 228, 25)">ancestro</text>
+<text transform="translate(360,218)" font-size="11" style="fill:rgb(246, 230, 32)">tema</text>
+<text transform="translate(163,183)" font-size="11" style="fill:rgb(72, 22, 104)">termino</text>
+<text transform="translate(215,259) rotate(-90)" font-size="11" style="fill:rgb(34, 140, 141)">practica</text>
+<text transform="translate(441,310)" font-size="11" style="fill:rgb(108, 205, 90)">gbyte</text>
+<text transform="translate(430,21)" font-size="11" style="fill:rgb(50, 182, 122)">enzima</text>
+<text transform="translate(330,292)" font-size="11" style="fill:rgb(34, 168, 132)">exito</text>
+<text transform="translate(270,343)" font-size="11" style="fill:rgb(57, 85, 140)">introduccion</text>
+<text transform="translate(117,214) rotate(-90)" font-size="11" style="fill:rgb(35, 137, 142)">comparacion</text>
+<text transform="translate(142,29)" font-size="11" style="fill:rgb(69, 56, 130)">presentan</text>
+<text transform="translate(284,94)" font-size="11" style="fill:rgb(152, 216, 62)">momento</text>
+<text transform="translate(217,211)" font-size="11" style="fill:rgb(59, 187, 117)">caracteristicas</text>
+<text transform="translate(292,303)" font-size="11" style="fill:rgb(30, 155, 138)">proyecto</text>
+<text transform="translate(7,79) rotate(-90)" font-size="11" style="fill:rgb(253, 231, 37)">proceso</text>
+<text transform="translate(150,266) rotate(-90)" font-size="11" style="fill:rgb(176, 221, 47)">resultado</text>
+<text transform="translate(167,397)" font-size="8" style="fill:rgb(70, 8, 92)">almacenamiento secuencias</text>
+<text transform="translate(536,236) rotate(-90)" font-size="8" style="fill:rgb(137, 213, 72)">fragmentos adn</text>
+<text transform="translate(1,393)" font-size="8" style="fill:rgb(44, 177, 126)">ayuda</text>
+<text transform="translate(425,8)" font-size="8" style="fill:rgb(197, 224, 33)">similitud</text>
+<text transform="translate(247,182)" font-size="8" style="fill:rgb(72, 31, 112)">alteracion</text>
+<text transform="translate(247,156)" font-size="8" style="fill:rgb(30, 157, 137)">objetivo</text>
+<text transform="translate(163,394) rotate(-90)" font-size="8" style="fill:rgb(51, 99, 141)">computacion</text>
+<text transform="translate(109,296)" font-size="8" style="fill:rgb(38, 129, 142)">ram</text>
+<text transform="translate(14,67) rotate(-90)" font-size="8" style="fill:rgb(62, 74, 137)">puesto</text>
+<text transform="translate(158,125)" font-size="8" style="fill:rgb(48, 105, 142)">componente</text>
+<text transform="translate(137,291)" font-size="8" style="fill:rgb(234, 229, 26)">caso</text>
+<text transform="translate(421,171)" font-size="8" style="fill:rgb(33, 143, 141)">involucran</text>
+<text transform="translate(341,89)" font-size="8" style="fill:rgb(70, 52, 128)">libre</text>
+<text transform="translate(278,102)" font-size="8" style="fill:rgb(70, 10, 93)">importancia</text>
+<text transform="translate(204,291)" font-size="8" style="fill:rgb(139, 214, 70)">gracias</text>
+<text transform="translate(163,135)" font-size="8" style="fill:rgb(221, 227, 24)">homologas</text>
+<text transform="translate(261,291)" font-size="8" style="fill:rgb(38, 173, 129)">comprension</text>
+<text transform="translate(328,366)" font-size="8" style="fill:rgb(30, 157, 137)">persona</text>
+<text transform="translate(463,33)" font-size="8" style="fill:rgb(41, 121, 142)">celula</text>
+<text transform="translate(373,77)" font-size="6" style="fill:rgb(72, 41, 121)">aplicacion algoritmos</text>
+<text transform="translate(67,385) rotate(-90)" font-size="6" style="fill:rgb(72, 27, 109)">algoritmos computacionales</text>
+<text transform="translate(203,111)" font-size="6" style="fill:rgb(103, 204, 92)">ortologia paralogia</text>
+<text transform="translate(121,78) rotate(-90)" font-size="6" style="fill:rgb(34, 140, 141)">duplicacion genes</text>
+<text transform="translate(336,84) rotate(-90)" font-size="6" style="fill:rgb(74, 193, 109)">cabo</text>
+<text transform="translate(292,395)" font-size="6" style="fill:rgb(149, 216, 64)">computacionales</text>
+<text transform="translate(428,157)" font-size="6" style="fill:rgb(72, 23, 105)">tales</text>
+<text transform="translate(554,79)" font-size="6" style="fill:rgb(65, 68, 135)">bioquimica</text>
+<text transform="translate(564,320)" font-size="6" style="fill:rgb(38, 129, 142)">comparar</text>
+<text transform="translate(83,88) rotate(-90)" font-size="6" style="fill:rgb(218, 227, 25)">funciones</text>
+<text transform="translate(124,297)" font-size="6" style="fill:rgb(64, 189, 114)">necesidad</text>
+<text transform="translate(145,35)" font-size="6" style="fill:rgb(46, 110, 142)">funcionamiento</text>
+<text transform="translate(313,373)" font-size="6" style="fill:rgb(53, 183, 121)">entender</text>
+<text transform="translate(307,312)" font-size="6" style="fill:rgb(184, 222, 41)">clave</text>
+<text transform="translate(364,141)" font-size="6" style="fill:rgb(72, 38, 119)">humano</text>
+<text transform="translate(434,148)" font-size="6" style="fill:rgb(39, 128, 142)">relacionada</text>
+<text transform="translate(567,397) rotate(-90)" font-size="6" style="fill:rgb(30, 156, 137)">computador</text>
+<text transform="translate(236,341)" font-size="6" style="fill:rgb(160, 218, 57)">cantidad</text>
+<text transform="translate(107,366) rotate(-90)" font-size="6" style="fill:rgb(70, 7, 90)">microbiologo</text>
+<text transform="translate(435,240)" font-size="6" style="fill:rgb(173, 220, 48)">presenta</text>
+<text transform="translate(274,245)" font-size="6" style="fill:rgb(68, 1, 84)">realizan</text>
+<text transform="translate(381,267)" font-size="6" style="fill:rgb(236, 229, 27)">trabajar</text>
+<text transform="translate(140,395) rotate(-90)" font-size="6" style="fill:rgb(59, 187, 117)">matematica</text>
+<text transform="translate(171,155)" font-size="6" style="fill:rgb(213, 226, 26)">identificar</text>
+<text transform="translate(289,348)" font-size="6" style="fill:rgb(71, 45, 123)">especifico</text>
+<text transform="translate(495,119)" font-size="6" style="fill:rgb(124, 210, 80)">operativo</text>
+<text transform="translate(498,170)" font-size="6" style="fill:rgb(59, 81, 139)">evento</text>
+<text transform="translate(561,326)" font-size="6" style="fill:rgb(42, 119, 142)">encontrar</text>
+<text transform="translate(225,254) rotate(-90)" font-size="6" style="fill:rgb(47, 107, 142)">principio</text>
+<text transform="translate(115,131) rotate(-90)" font-size="6" style="fill:rgb(189, 223, 38)">diferencia</text>
+</svg>
